@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using catch-all routes in React Router Dom v6.  The catch-all route (`/*`) is intended to handle any unmatched paths, but in certain scenarios, it might be overridden by other routes. This repository provides a minimal reproducible example and a solution to resolve the issue.
